@@ -1,0 +1,2002 @@
+@media only screen and (max-width: 768px) {
+
+
+    /*===========top section=============*/
+
+
+    #top {
+        width: 100%;
+        height: 100vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),
+            url(img/bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+            url(img/bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+
+    #top .card-style {
+        margin-top: 60px;
+
+    }
+
+
+    /*===========social section==========*/
+
+
+    #social-media {
+        background: #fff;
+        -webkit-box-shadow: 2px 2px 5px #333;
+        box-shadow: 2px 2px 5px #333;
+
+    }
+
+    #social-media h4 {
+        font-size: 20px;
+        color: #333333;
+        text-align: center;
+    }
+
+    #social-media p {
+
+        font-size: 14px;
+        color: #86878b;
+        text-align: center;
+
+    }
+
+    #social-media .icons a {
+        color: #cccccc;
+        margin-right: 60px;
+        font-size: 38px;
+    }
+
+    #social-media .icons a:hover {
+        color: #333;
+    }
+
+
+
+
+    /*===========tab section============*/
+    #tab {
+        background: #f5f5f5;
+        width: 100%;
+        height: 80vh;
+        text-align: center;
+    }
+
+
+
+
+    /*==========list section==========*/
+    #list {
+        background: #fff;
+        width: 100%;
+        height: 95vh;
+    }
+
+    #list .col-md-12 {
+        text-align: center;
+    }
+
+
+    #list h3 {
+        font-weight: 700;
+        font-size: 25px;
+
+    }
+
+    #list .fa-cloud-upload-alt {
+        width: 40px;
+        height: 40px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+
+    }
+
+
+
+    /*===================standard section=======================*/
+    #standard {
+        background: #f5f5f5;
+        width: 100%;
+        height: 85vh;
+    }
+
+    #standard .col-md-12 {
+        text-align: center;
+    }
+
+    #standard h3 {
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    #standard p {
+        font-size: 18px;
+    }
+
+    /*===============awesome section===============*/
+
+    #awesome {
+        width: 100%;
+        height: 100vh;
+
+    }
+
+    #awesome img {
+        width: 50px;
+        height: 50px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+    }
+
+
+    /*==================price section======================*/
+    #price {
+        background: #f5f5f5;
+        width: 100%;
+        height: 250vh;
+    }
+
+    #price h2 {
+        margin-top: 70px;
+        display: inline-block;
+    }
+
+    #price .card-body h5 {}
+
+    #price .card {
+        margin-left: 170px;
+    }
+
+
+
+    #price img {
+        margin-left: 125px;
+        margin-top: 50px;
+    }
+
+    .card {
+        border: none;
+        background: #ffffff;
+    }
+
+    .card-body .color {}
+
+    #price .basic-enterprise-popular {
+        width: 100%;
+        height: 10px;
+
+        background: #ff8b38;
+
+
+    }
+
+    #price .professional-popular {
+        width: 100%;
+        height: 100px;
+
+        background: #ff8b38;
+        color: #fff;
+    }
+
+    #price .professional-popular h5 {
+        margin-top: 15px;
+        display: inline-block;
+    }
+
+    /*=====================Review section====================*/
+
+    #review {
+        background: #fff;
+        width: 100%;
+        height: 60vh;
+
+
+    }
+
+    #review h2 {
+        margin-top: 70px;
+        display: inline-block;
+    }
+
+    #review img {
+        margin-top: 170px;
+    }
+
+
+    /*=======================style-axure-design=============================*/
+
+
+
+    #style-axure-design {
+        width: 100%;
+        height: 35vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(245, 245, 245, 0.3)), to(rgba(245, 245, 245, 0.3))),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(245, 245, 245, 0.3), rgba(245, 245, 245, 0.3)),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+    #style-axure-design h2 {
+        color: #fff;
+        font-size: 36px;
+        font-weight: 700;
+    }
+
+    #style-axure-design p {
+        color: #fff;
+        font-size: 16px;
+
+    }
+
+    /*=====================contact section=====================*/
+
+    #contact-us {
+        width: 100%;
+        height: 90vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.4)), to(rgba(255, 255, 255, 0.4))),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background-attachment: fixed;
+
+
+    }
+
+    #contact-us h2 {
+        margin-top: 60px;
+        display: inline-block;
+
+    }
+
+    #contact-us .btn {
+        margin-top: 40px;
+    }
+
+    #contact-us textarea {
+        height: 190px;
+    }
+
+    #contact-us .btn-custom {
+        width: 140px;
+        height: 40px;
+        background: #ff9b51;
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=================footer part start===================*/
+    .footer-part {
+        background: #000;
+        width: 100%;
+        height: 18vh;
+
+    }
+
+    .footer-part .icon a {
+        margin: 20px;
+        display: inline-block;
+        font-size: 30px;
+        color: #fff;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+/*=============Media Query for 480px=======================================*/
+
+@media only screen and (max-width: 576px) {
+
+
+
+    /*===========top section=============*/
+
+
+    #top {
+        width: 100%;
+        height: 110vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),
+            url(img/bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+            url(img/bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+
+    #top .card-style {
+        margin-top: 65px;
+
+    }
+
+    #top h1 {
+        font-size: 40px;
+        line-height: 1.5;
+    }
+
+
+
+    /*===========social section==========*/
+
+
+    #social-media {
+        background: #fff;
+        -webkit-box-shadow: 2px 2px 5px #333;
+        box-shadow: 2px 2px 5px #333;
+
+    }
+
+    #social-media h4 {
+        font-size: 20px;
+        color: #333333;
+        text-align: center;
+    }
+
+    #social-media p {
+
+        font-size: 14px;
+        color: #86878b;
+        text-align: center;
+
+    }
+
+    #social-media .icons {
+        text-align: center;
+    }
+
+    #social-media .icons a {
+        color: #cccccc;
+        margin-right: 25px;
+        font-size: 30px;
+    }
+
+    #social-media .icons a:hover {
+        color: #333;
+    }
+
+
+    /*===========tab section============*/
+    #tab {
+        background: #f5f5f5;
+        width: 100%;
+        height: 85vh;
+        text-align: center;
+    }
+
+    /*==========list section==========*/
+    #list {
+        background: #fff;
+        width: 100%;
+        height: 105vh;
+    }
+
+    #list .col-sm-12 {
+        text-align: center;
+    }
+
+
+    #list h3 {
+        font-weight: 700;
+        font-size: 25px;
+
+    }
+
+    #list .fa-cloud-upload-alt {
+        width: 40px;
+        height: 40px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+
+    }
+
+    /*===================standard section=======================*/
+    #standard {
+        background: #f5f5f5;
+        width: 100%;
+        height: 100vh;
+    }
+
+    #standard .col-sm-12 {
+        text-align: center;
+    }
+
+    #standard h3 {
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    #standard p {
+        font-size: 18px;
+    }
+
+    /*===============awesome section===============*/
+
+    #awesome {
+        width: 100%;
+        height: 110vh;
+
+    }
+
+    #awesome img {
+        width: 50px;
+        height: 50px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+    }
+
+    /*==================price section======================*/
+    #price {
+        background: #f5f5f5;
+        width: 100%;
+        height: 260vh;
+    }
+
+    #price h2 {
+        margin-top: 70px;
+        display: inline-block;
+    }
+
+    #price .card-body h5 {}
+
+    #price .card {
+        margin-left: 75px;
+    }
+
+
+
+    #price img {
+        margin-left: 125px;
+        margin-top: 50px;
+    }
+
+    .card {
+        border: none;
+        background: #ffffff;
+    }
+
+    .card-body .color {}
+
+    #price .basic-enterprise-popular {
+        width: 100%;
+        height: 10px;
+
+        background: #ff8b38;
+
+
+    }
+
+    #price .professional-popular {
+        width: 100%;
+        height: 100px;
+
+        background: #ff8b38;
+        color: #fff;
+    }
+
+    #price .professional-popular h5 {
+        margin-top: 15px;
+        display: inline-block;
+    }
+
+    /*=====================Review section====================*/
+
+    #review {
+        background: #fff;
+        width: 100%;
+        height: 65vh;
+
+
+    }
+
+    #review h2 {
+        margin-top: 70px;
+        display: inline-block;
+        font-size: 30px;
+    }
+
+    #review img {
+        margin-top: 170px;
+    }
+
+
+    /*=======================style-axure-design=============================*/
+
+
+
+    #style-axure-design {
+        width: 100%;
+        height: 40vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(245, 245, 245, 0.3)), to(rgba(245, 245, 245, 0.3))),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(245, 245, 245, 0.3), rgba(245, 245, 245, 0.3)),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+    #style-axure-design h2 {
+        color: #fff;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    #style-axure-design p {
+        color: #fff;
+        font-size: 16px;
+
+    }
+
+    /*=====================contact section=====================*/
+
+    #contact-us {
+        width: 100%;
+        height: 90vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.4)), to(rgba(255, 255, 255, 0.4))),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background-attachment: fixed;
+
+
+    }
+
+    #contact-us h2 {
+        margin-top: 60px;
+        display: inline-block;
+
+    }
+
+    #contact-us .btn {
+        margin-top: 40px;
+    }
+
+    #contact-us textarea {
+        height: 190px;
+    }
+
+    #contact-us .btn-custom {
+        width: 140px;
+        height: 40px;
+        background: #ff9b51;
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=================footer part start===================*/
+    .footer-part {
+        background: #000;
+        width: 100%;
+        height: 18vh;
+
+    }
+
+    .footer-part .icon a {
+        margin: 20px;
+        display: inline-block;
+        font-size: 20px;
+        color: #fff;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+/*=============Media Query for 480px=======================================*/
+
+@media only screen and (max-width: 480px) {
+
+
+
+    /*===========top section=============*/
+
+
+    #top {
+        width: 100%;
+        height: 100vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),
+            url(img/bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+            url(img/bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+
+    #top .card-style {
+        margin-top: 65px;
+
+    }
+
+    #top h1 {
+        font-size: 22px;
+        line-height: 1.5;
+    }
+
+
+
+    /*===========social section==========*/
+
+
+    #social-media {
+        background: #fff;
+        -webkit-box-shadow: 2px 2px 5px #333;
+        box-shadow: 2px 2px 5px #333;
+
+    }
+
+    #social-media h4 {
+        font-size: 20px;
+        color: #333333;
+        text-align: center;
+    }
+
+    #social-media p {
+
+        font-size: 14px;
+        color: #86878b;
+        text-align: center;
+
+    }
+
+    #social-media .icons {
+        text-align: center;
+    }
+
+    #social-media .icons a {
+        color: #cccccc;
+        margin-right: 25px;
+        font-size: 25px;
+    }
+
+    #social-media .icons a:hover {
+        color: #333;
+    }
+
+
+    /*===========tab section============*/
+    #tab {
+        background: #f5f5f5;
+        width: 100%;
+        height: 120vh;
+        text-align: center;
+    }
+
+    /*==========list section==========*/
+    #list {
+        background: #fff;
+        width: 100%;
+        height: 100vh;
+    }
+
+    #list .col-xs-12 {
+        text-align: center;
+    }
+
+
+    #list h3 {
+        font-weight: 700;
+        font-size: 25px;
+
+    }
+
+    #list p {
+        font-size: 15px;
+    }
+
+    #list .fa-cloud-upload-alt {
+        width: 40px;
+        height: 40px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+
+    }
+
+    /*===================standard section=======================*/
+    #standard {
+        background: #f5f5f5;
+        width: 100%;
+        height: 80vh;
+    }
+
+    #standard img {
+        width: 400px;
+
+    }
+
+    #standard .col-sm-12 {
+        text-align: center;
+    }
+
+    #standard h3 {
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    #standard p {
+        font-size: 15px;
+    }
+
+    /*===============awesome section===============*/
+
+    #awesome {
+        width: 100%;
+        height: 105vh;
+
+    }
+
+    #awesome img {
+        width: 50px;
+        height: 50px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+    }
+
+    #awesome p {
+        font-size: 15px;
+    }
+
+    /*==================price section======================*/
+    #price {
+        background: #f5f5f5;
+        width: 100%;
+        height: 260vh;
+    }
+
+    #price h2 {
+        margin-top: 70px;
+        display: inline-block;
+    }
+
+    #price p {
+        font-size: 15px;
+    }
+
+    #price .card-body h5 {}
+
+    #price .card {
+        margin-left: 45px;
+        width: 400px;
+    }
+
+
+
+    #price img {
+        margin-left: 125px;
+        margin-top: 50px;
+    }
+
+    .card {
+        border: none;
+        background: #ffffff;
+    }
+
+    .card-body .color {}
+
+    #price .basic-enterprise-popular {
+        width: 100%;
+        height: 10px;
+
+        background: #ff8b38;
+
+
+    }
+
+    #price .professional-popular {
+        width: 100%;
+        height: 100px;
+
+        background: #ff8b38;
+        color: #fff;
+    }
+
+    #price .professional-popular h5 {
+        margin-top: 15px;
+        display: inline-block;
+    }
+
+    /*=====================Review section====================*/
+
+    #review {
+        background: #fff;
+        width: 100%;
+        height: 130vh;
+
+
+    }
+
+    #review h2 {
+        margin-top: 70px;
+        display: inline-block;
+        font-size: 30px;
+    }
+
+    #review img {
+        margin-top: 170px;
+    }
+
+
+    /*=======================style-axure-design=============================*/
+
+
+
+    #style-axure-design {
+        width: 100%;
+        height: 40vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(245, 245, 245, 0.3)), to(rgba(245, 245, 245, 0.3))),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(245, 245, 245, 0.3), rgba(245, 245, 245, 0.3)),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+    #style-axure-design h2 {
+        color: #fff;
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    #style-axure-design p {
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=====================contact section=====================*/
+
+    #contact-us {
+        width: 100%;
+        height: 90vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.4)), to(rgba(255, 255, 255, 0.4))),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background-attachment: fixed;
+
+
+    }
+
+    #contact-us h2 {
+        margin-top: 60px;
+        display: inline-block;
+        font-size: 30px;
+
+    }
+
+    #contact-us p {
+        font-size: 15px;
+    }
+
+    #contact-us .btn {
+        margin-top: 40px;
+    }
+
+    #contact-us textarea {
+        height: 190px;
+    }
+
+    #contact-us .btn-custom {
+        width: 140px;
+        height: 40px;
+        background: #ff9b51;
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=================footer part start===================*/
+    .footer-part {
+        background: #000;
+        width: 100%;
+        height: 16vh;
+
+    }
+
+    .footer-part .icon a {
+        margin: 15px;
+        display: inline-block;
+        font-size: 20px;
+        color: #fff;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*=============Media Query for 414px=======================================*/
+
+@media only screen and (max-width: 414px) {
+
+
+
+    /*===========top section=============*/
+
+
+    #top {
+        width: 100%;
+        height: 90vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),
+            url(img/bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+            url(img/bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+
+    #top .card-style {
+        margin-top: 65px;
+
+    }
+
+
+
+    #top h1 {
+        display: none;
+    }
+
+    #top p {
+        display: none;
+    }
+
+    #top a {
+        display: none;
+    }
+
+
+
+    /*===========social section==========*/
+
+
+    #social-media {
+        background: #fff;
+        -webkit-box-shadow: 2px 2px 5px #333;
+        box-shadow: 2px 2px 5px #333;
+
+    }
+
+    #social-media h4 {
+        font-size: 20px;
+        color: #333333;
+        text-align: center;
+    }
+
+    #social-media p {
+
+        font-size: 14px;
+        color: #86878b;
+        text-align: center;
+
+    }
+
+    #social-media .icons {
+        text-align: center;
+    }
+
+    #social-media .icons a {
+        color: #cccccc;
+        margin-right: 20px;
+        font-size: 20px;
+    }
+
+    #social-media .icons a:hover {
+        color: #333;
+    }
+
+
+    /*===========tab section============*/
+    #tab {
+        background: #f5f5f5;
+        width: 100%;
+        height: 165vh;
+        text-align: center;
+    }
+
+    /*==========list section==========*/
+    #list {
+        background: #fff;
+        width: 100%;
+        height: 130vh;
+    }
+
+    #list .col-xs-12 {
+        text-align: center;
+    }
+
+
+    #list h3 {
+        font-weight: 700;
+        font-size: 25px;
+
+    }
+
+    #list p {
+        font-size: 15px;
+    }
+
+    #list .fa-cloud-upload-alt {
+        width: 40px;
+        height: 40px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+
+    }
+
+    /*===================standard section=======================*/
+    #standard {
+        background: #f5f5f5;
+        width: 100%;
+        height: 110vh;
+    }
+
+    #standard img {
+        width: 400px;
+
+    }
+
+    #standard .col-sm-12 {
+        text-align: center;
+    }
+
+    #standard h3 {
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    #standard p {
+        font-size: 15px;
+    }
+
+    /*===============awesome section===============*/
+
+    #awesome {
+        width: 100%;
+        height: 140vh;
+
+    }
+
+    #awesome img {
+        width: 50px;
+        height: 50px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+    }
+
+    #awesome p {
+        font-size: 15px;
+    }
+
+    /*==================price section======================*/
+    #price {
+        background: #f5f5f5;
+        width: 100%;
+        height: 320vh;
+    }
+
+    #price h2 {
+        margin-top: 70px;
+        display: inline-block;
+    }
+
+    #price p {
+        font-size: 15px;
+    }
+
+    #price .card-body h5 {}
+
+    #price .card {
+        margin-left: 15px;
+        width: 350px;
+    }
+
+
+
+    #price img {
+        margin-left: 125px;
+        margin-top: 50px;
+    }
+
+    .card {
+        border: none;
+        background: #ffffff;
+    }
+
+    .card-body .color {}
+
+    #price .basic-enterprise-popular {
+        width: 100%;
+        height: 10px;
+
+        background: #ff8b38;
+
+
+    }
+
+    #price .professional-popular {
+        width: 100%;
+        height: 100px;
+
+        background: #ff8b38;
+        color: #fff;
+    }
+
+    #price .professional-popular h5 {
+        margin-top: 15px;
+        display: inline-block;
+    }
+
+    /*=====================Review section====================*/
+
+    #review {
+        background: #fff;
+        width: 100%;
+        height: 160vh;
+
+
+    }
+
+    #review h2 {
+        margin-top: 70px;
+        display: inline-block;
+        font-size: 20px;
+    }
+
+    #review img {
+        margin-top: 170px;
+    }
+
+
+    /*=======================style-axure-design=============================*/
+
+
+
+    #style-axure-design {
+        width: 100%;
+        height: 50vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(245, 245, 245, 0.3)), to(rgba(245, 245, 245, 0.3))),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(245, 245, 245, 0.3), rgba(245, 245, 245, 0.3)),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+    #style-axure-design h2 {
+        color: #fff;
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    #style-axure-design p {
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=====================contact section=====================*/
+
+    #contact-us {
+        width: 100%;
+        height: 120vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.4)), to(rgba(255, 255, 255, 0.4))),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background-attachment: fixed;
+
+
+    }
+
+    #contact-us h2 {
+        margin-top: 60px;
+        display: inline-block;
+        font-size: 30px;
+
+    }
+
+    #contact-us p {
+        font-size: 15px;
+    }
+
+    #contact-us .btn {
+        margin-top: 40px;
+    }
+
+    #contact-us textarea {
+        height: 190px;
+    }
+
+    #contact-us .btn-custom {
+        width: 140px;
+        height: 40px;
+        background: #ff9b51;
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=================footer part start===================*/
+    .footer-part {
+        background: #000;
+        width: 100%;
+        height: 16vh;
+
+    }
+
+    .footer-part .icon a {
+        margin: 10px;
+        display: inline-block;
+        font-size: 15px;
+        color: #fff;
+    }
+
+
+}
+
+/*=============Media Query for 375px=======================================*/
+
+@media only screen and (max-width: 375px) {
+
+
+
+    /*===========top section=============*/
+
+
+    #top {
+        width: 100%;
+        height: 90vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),
+            url(img/bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+            url(img/bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+
+    #top .card-style {
+        margin-top: 65px;
+
+    }
+
+
+
+    #top h1 {
+        display: none;
+    }
+
+    #top p {
+        display: none;
+    }
+
+    #top a {
+        display: none;
+    }
+
+
+
+    /*===========social section==========*/
+
+
+    #social-media {
+        background: #fff;
+        -webkit-box-shadow: 2px 2px 5px #333;
+        box-shadow: 2px 2px 5px #333;
+
+    }
+
+    #social-media h4 {
+        font-size: 20px;
+        color: #333333;
+        text-align: center;
+    }
+
+    #social-media p {
+
+        font-size: 14px;
+        color: #86878b;
+        text-align: center;
+
+    }
+
+    #social-media .icons {
+        text-align: center;
+    }
+
+    #social-media .icons a {
+        color: #cccccc;
+        margin-right: 15px;
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+
+    #social-media .icons a:hover {
+        color: #333;
+    }
+
+
+    /*===========tab section============*/
+    #tab {
+        background: #f5f5f5;
+        width: 100%;
+        height: 170vh;
+        text-align: center;
+    }
+
+    #tab h3 {
+        font-size: 20px;
+    }
+
+    #tab p {
+        font-size: 15px;
+    }
+
+    /*==========list section==========*/
+    #list {
+        background: #fff;
+        width: 100%;
+        height: 150vh;
+    }
+
+    #list .col-xs-12 {
+        text-align: center;
+    }
+
+
+    #list h3 {
+        font-weight: 700;
+        font-size: 25px;
+
+    }
+
+    #list p {
+        font-size: 15px;
+    }
+
+    #list .fa-cloud-upload-alt {
+        width: 40px;
+        height: 40px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+
+    }
+
+    /*===================standard section=======================*/
+    #standard {
+        background: #f5f5f5;
+        width: 100%;
+        height: 115vh;
+    }
+
+    #standard img {
+        width: 320px;
+
+    }
+
+    #standard .col-sm-12 {
+        text-align: center;
+    }
+
+    #standard h3 {
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    #standard p {
+        font-size: 15px;
+    }
+
+    /*===============awesome section===============*/
+
+    #awesome {
+        width: 100%;
+        height: 155vh;
+
+    }
+
+    #awesome img {
+        width: 50px;
+        height: 50px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+    }
+
+    #awesome p {
+        font-size: 15px;
+    }
+
+    /*==================price section======================*/
+    #price {
+        background: #f5f5f5;
+        width: 100%;
+        height: 340vh;
+    }
+
+    #price h2 {
+        margin-top: 70px;
+        display: inline-block;
+    }
+
+    #price p {
+        font-size: 15px;
+    }
+
+    #price .card-body h5 {}
+
+    #price .card {
+        margin-left: -5px;
+        width: 200px;
+    }
+
+
+
+    #price img {
+        margin-left: 125px;
+        margin-top: 50px;
+    }
+
+    .card {
+        border: none;
+        background: #ffffff;
+    }
+
+    .card-body .color {}
+
+    #price .basic-enterprise-popular {
+        width: 100%;
+        height: 10px;
+
+        background: #ff8b38;
+
+
+    }
+
+    #price .professional-popular {
+        width: 100%;
+        height: 100px;
+
+        background: #ff8b38;
+        color: #fff;
+    }
+
+    #price .professional-popular h5 {
+        margin-top: 15px;
+        display: inline-block;
+    }
+
+    /*=====================Review section====================*/
+
+    #review {
+        background: #fff;
+        width: 100%;
+        height: 190vh;
+
+
+    }
+
+    #review h2 {
+        margin-top: 70px;
+        display: inline-block;
+        font-size: 20px;
+    }
+
+    #review img {
+        margin-top: 170px;
+    }
+
+
+    /*=======================style-axure-design=============================*/
+
+
+
+    #style-axure-design {
+        width: 100%;
+        height: 55vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(245, 245, 245, 0.3)), to(rgba(245, 245, 245, 0.3))),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(245, 245, 245, 0.3), rgba(245, 245, 245, 0.3)),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+    #style-axure-design h2 {
+        color: #fff;
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    #style-axure-design p {
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=====================contact section=====================*/
+
+    #contact-us {
+        width: 100%;
+        height: 135vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.4)), to(rgba(255, 255, 255, 0.4))),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background-attachment: fixed;
+
+
+    }
+
+    #contact-us h2 {
+        margin-top: 60px;
+        display: inline-block;
+        font-size: 30px;
+
+    }
+
+    #contact-us p {
+        font-size: 15px;
+    }
+
+    #contact-us .btn {
+        margin-top: 40px;
+    }
+
+    #contact-us textarea {
+        height: 190px;
+    }
+
+    #contact-us .btn-custom {
+        width: 140px;
+        height: 40px;
+        background: #ff9b51;
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=================footer part start===================*/
+    .footer-part {
+        background: #000;
+        width: 100%;
+        height: 16vh;
+
+    }
+
+    .footer-part .icon a {
+        margin: 10px;
+        display: inline-block;
+        font-size: 12px;
+        color: #fff;
+    }
+
+    .copyright span {
+        font-size: 12px;
+    }
+
+    .copyright h5 {
+        font-size: 14px;
+    }
+
+}
+
+/*=============Media Query for 360px=======================================*/
+
+@media only screen and (max-width: 360px) {
+
+
+
+    /*===========top section=============*/
+
+
+    #top {
+        width: 100%;
+        height: 100vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),
+            url(img/bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+            url(img/bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+
+    #top .card-style {
+        margin-top: 65px;
+
+    }
+
+
+
+    #top h1 {
+        display: none;
+    }
+
+    #top p {
+        display: none;
+    }
+
+    #top a {
+        display: none;
+    }
+
+
+
+    /*===========social section==========*/
+
+
+    #social-media {
+        background: #fff;
+        -webkit-box-shadow: 2px 2px 5px #333;
+        box-shadow: 2px 2px 5px #333;
+
+    }
+
+    #social-media h4 {
+        font-size: 20px;
+        color: #333333;
+        text-align: center;
+    }
+
+    #social-media p {
+
+        font-size: 14px;
+        color: #86878b;
+        text-align: center;
+
+    }
+
+    #social-media .icons {
+        text-align: center;
+    }
+
+    #social-media .icons a {
+        color: #cccccc;
+        margin-right: 15px;
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+
+    #social-media .icons a:hover {
+        color: #333;
+    }
+
+
+    /*===========tab section============*/
+    #tab {
+        background: #f5f5f5;
+        width: 100%;
+        height: 180vh;
+        text-align: center;
+    }
+
+    #tab h3 {
+        font-size: 20px;
+    }
+
+    #tab p {
+        font-size: 15px;
+    }
+
+    /*==========list section==========*/
+    #list {
+        background: #fff;
+        width: 100%;
+        height: 160vh;
+    }
+
+    #list .col-xs-12 {
+        text-align: center;
+    }
+
+
+    #list h3 {
+        font-weight: 700;
+        font-size: 25px;
+
+    }
+
+    #list p {
+        font-size: 15px;
+    }
+
+    #list .fa-cloud-upload-alt {
+        width: 40px;
+        height: 40px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+
+    }
+
+    /*===================standard section=======================*/
+    #standard {
+        background: #f5f5f5;
+        width: 100%;
+        height: 130vh;
+    }
+
+    #standard img {
+        width: 320px;
+
+    }
+
+    #standard .col-sm-12 {
+        text-align: center;
+    }
+
+    #standard h3 {
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    #standard p {
+        font-size: 15px;
+    }
+
+    /*===============awesome section===============*/
+
+    #awesome {
+        width: 100%;
+        height: 170vh;
+
+    }
+
+    #awesome img {
+        width: 50px;
+        height: 50px;
+        color: #ff8b38;
+        border: 2px solid #ff8b38;
+        border-radius: 100%;
+        background: #fff;
+        padding: 8px 10px;
+    }
+
+    #awesome p {
+        font-size: 14px;
+    }
+
+    /*==================price section======================*/
+    #price {
+        background: #f5f5f5;
+        width: 100%;
+        height: 350vh;
+    }
+
+    #price h2 {
+        margin-top: 70px;
+        display: inline-block;
+    }
+
+    #price p {
+        font-size: 15px;
+    }
+
+    #price .card-body h5 {}
+
+    #price .card {
+        margin-left: -10px;
+        width: 200px;
+    }
+
+
+
+    #price img {
+        margin-left: 125px;
+        margin-top: 50px;
+    }
+
+    .card {
+        border: none;
+        background: #ffffff;
+    }
+
+    .card-body .color {}
+
+    #price .basic-enterprise-popular {
+        width: 100%;
+        height: 10px;
+
+        background: #ff8b38;
+
+
+    }
+
+    #price .professional-popular {
+        width: 100%;
+        height: 100px;
+
+        background: #ff8b38;
+        color: #fff;
+    }
+
+    #price .professional-popular h5 {
+        margin-top: 15px;
+        display: inline-block;
+    }
+
+    /*=====================Review section====================*/
+
+    #review {
+        background: #fff;
+        width: 100%;
+        height: 200vh;
+
+
+    }
+
+    #review h2 {
+        margin-top: 70px;
+        display: inline-block;
+        font-size: 20px;
+    }
+
+    #review img {
+        margin-top: 170px;
+    }
+
+
+    /*=======================style-axure-design=============================*/
+
+
+
+    #style-axure-design {
+        width: 100%;
+        height: 55vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(245, 245, 245, 0.3)), to(rgba(245, 245, 245, 0.3))),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background: linear-gradient(rgba(245, 245, 245, 0.3), rgba(245, 245, 245, 0.3)),
+            url(img/style-section-bg.png) no-repeat center/cover;
+        background-attachment: fixed;
+
+    }
+
+    #style-axure-design h2 {
+        color: #fff;
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    #style-axure-design p {
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=====================contact section=====================*/
+
+    #contact-us {
+        width: 100%;
+        height: 155vh;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.4)), to(rgba(255, 255, 255, 0.4))),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
+            url(img/contact-bg.jpg) no-repeat center/cover;
+        background-attachment: fixed;
+
+
+    }
+
+    #contact-us h2 {
+        margin-top: 60px;
+        display: inline-block;
+        font-size: 30px;
+
+    }
+
+    #contact-us p {
+        font-size: 15px;
+    }
+
+    #contact-us .btn {
+        margin-top: 40px;
+    }
+
+    #contact-us textarea {
+        height: 190px;
+    }
+
+    #contact-us .btn-custom {
+        width: 140px;
+        height: 40px;
+        background: #ff9b51;
+        color: #fff;
+        font-size: 15px;
+
+    }
+
+    /*=================footer part start===================*/
+    .footer-part {
+        background: #000;
+        width: 100%;
+        height: 16vh;
+
+    }
+
+    .footer-part .icon a {
+        margin: 10px;
+        display: inline-block;
+        font-size: 12px;
+        color: #fff;
+    }
+
+    .copyright span {
+        font-size: 12px;
+    }
+
+    .copyright h5 {
+        font-size: 14px;
+    }
+
+}
